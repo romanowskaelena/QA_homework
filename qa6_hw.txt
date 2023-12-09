@@ -1,0 +1,20 @@
+=================
+
+ В разделе Quantity equivalence classes:
+ 
+	- (< 1 ) - invalid data
+	- (>= 1 to <=20) - valid data
+	- (> 21 ) - invalid data	
+
+
+=================
+
+ В разделе Full Name equivalence classes:
+
+	- (a to z) - valid data
+	- (A to Z) - valid data
+	- (А до Я) - invalid data
+	- (< 3) - invalid data
+	- (>= 3 to <=25) - valid data
+	- (> 25) - invalid data
+
